@@ -14,3 +14,9 @@
  1. foot
  2. hand 
  3. head
+
+ # |  Code 301 - Intermediate Software Development |
+| Class number  | link |
+| ----------- | ----------- |
+| class01      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class1.md) |
+| class02      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class2.md) |
