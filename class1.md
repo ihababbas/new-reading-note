@@ -1,4 +1,12 @@
 # Class 01
+|  Code 301 - Intermediate Software Development |
+| Class number  | link |
+| ----------- | ----------- |
+| class01      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class1.md) |
+
+
+
+
 ## Component
 ---
 ### What is a “component”?
@@ -57,3 +65,5 @@ Uni-directional
 ## Things I want to know more about
 
 more denamic ways using to pass data on front-end side
+
+
