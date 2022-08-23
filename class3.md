@@ -41,4 +41,6 @@
      Props and Stats
 ### How does the child component invoke a method that was passed to it from a parent component?
        in depeds on the type of the child component either a fix elemnat or changable
-
+---
+## Things I want to know more about
+  loop throught objects and update it
