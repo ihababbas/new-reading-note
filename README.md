@@ -23,3 +23,4 @@
 | class03      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class3.md) |
 | class04      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class4.md) |
 | class05      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class5.md) |
+| class06      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class6.md) |
