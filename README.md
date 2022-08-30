@@ -25,3 +25,4 @@
 | class05      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class5.md) |
 | class06      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class6.md) |
 | class07      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class7.md) |
+| class08      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class8.md) |
