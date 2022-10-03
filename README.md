@@ -40,5 +40,5 @@
 | Class number  | link |
 | ----------- | ----------- |
 | class1      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class1.md) |
-| class1      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class2.md) |
+| class2      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class2.md) |
 
