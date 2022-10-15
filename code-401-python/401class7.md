@@ -46,4 +46,3 @@ NumPy also has several methods that you can use for more complex calculations on
 
 NumPy makes it possible to test to see if rows match certain values using mathematical comparison operations like <, >, >=, <=, and ==.
 
-Videos
