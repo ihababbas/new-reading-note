@@ -45,3 +45,4 @@
 | class4      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class4.md) |
 | class5      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class5.md) |
 | class6      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class6.md) |
+| class7      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class7.md) |
