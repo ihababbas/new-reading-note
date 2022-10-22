@@ -48,3 +48,4 @@
 | class7      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class7.md) |
 | class8      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class8.md) |
 | class9      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class9.md) |
+| class10      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class10.md) |
