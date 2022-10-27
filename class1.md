@@ -1,3 +1,8 @@
+'''
+layout:default
+'''
+
+
 # Class 01
 |  Code 301 - Intermediate Software Development |
 | Class number  | link |
