@@ -1,6 +1,6 @@
-'''
+---
 layout:default
-'''
+---
 
 
 # Class 01
