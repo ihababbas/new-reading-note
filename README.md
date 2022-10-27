@@ -40,14 +40,14 @@
 | Class number  | link |
 | ----------- | ----------- |
 | class1      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class1) |
-| class2      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class2.md) |
-| class3      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class3.md) |
-| class4      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class4.md) |
-| class5      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class5.md) |
-| class6      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class6.md) |
-| class7      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class7.md) |
-| class8      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class8.md) |
-| class9      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class9.md) |
-| class10      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class10.md) |
-| class11      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class11.md) |
-| class12      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class12.md) |
+| class2      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class2) |
+| class3      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class3) |
+| class4      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class4) |
+| class5      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class5) |
+| class6      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class6) |
+| class7      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class7) |
+| class8      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class8) |
+| class9      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class9) |
+| class10      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class10) |
+| class11      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class11) |
+| class12      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class12) |
