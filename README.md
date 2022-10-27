@@ -39,7 +39,7 @@
  # | Code 401 - Advanced Software Development |
 | Class number  | link |
 | ----------- | ----------- |
-| class1      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class1/README.md) |
+| class1      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class1/README.md) |
 | class2      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class2.md) |
 | class3      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class3.md) |
 | class4      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/401class4.md) |
