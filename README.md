@@ -50,4 +50,5 @@
 | class9      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class9.md) |
 | class10      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class10.md) |
 | class11      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class11.md) |
-| class12      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class12.md) |# reading-note
+| class12      | 	[link](https://ihababbas.github.io/reading-note/code-401-python/401class12.md) |
+# new-reading-note
