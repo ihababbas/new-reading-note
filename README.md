@@ -18,20 +18,20 @@
  # |  Code 301 - Intermediate Software Development |
 | Class number  | link |
 | ----------- | ----------- |
-| class01      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class1.md) |
-| class02      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class2.md) |
-| class03      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class3.md) |
-| class04      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class4.md) |
-| class05      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class5.md) |
-| class06      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class6.md) |
-| class07      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class7.md) |
-| class08      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class8.md) |
-| class09      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class9.md) |
-| class10      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class10.md) |
-| class11      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class11.md) |
-| class12      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class12.md) |
-| class13      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class13.md) |
-| class15      | 	[link](https://github.com/ihababbas/reading-note/blob/main/class15.md) |
+| class01      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class1.md) |
+| class02      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class2.md) |
+| class03      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class3.md) |
+| class04      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class4.md) |
+| class05      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class5.md) |
+| class06      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class6.md) |
+| class07      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class7.md) |
+| class08      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class8.md) |
+| class09      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class9.md) |
+| class10      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class10.md) |
+| class11      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class11.md) |
+| class12      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class12.md) |
+| class13      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class13.md) |
+| class15      | 	[link](https://github.com/ihababbas/new-reading-note/blob/main/class15.md) |
 
 
 
