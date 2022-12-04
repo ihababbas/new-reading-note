@@ -58,3 +58,4 @@
 | class17      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class17) |
 | class19      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class19) |
 | class20      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class20) |
+| class22      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class22) |
