@@ -71,3 +71,5 @@
 | class33      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class33) |
 | class34      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class34) |
 | class35      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class35) |
+| class36      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class36) |
+| class37      | 	[link](https://ihababbas.github.io/new-reading-note/code-401-python/class37) |
